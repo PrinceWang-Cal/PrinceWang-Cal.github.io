@@ -28,7 +28,7 @@ I have interned at [UCSF Radiology](https://radiology.ucsf.edu), working on a re
 ### Research
 
 My current research focus is in the field of 3D Computer Vision and Medical Imaging.
-I am an undergraduate researcher at Berkeley, where I am advised by Professor [Joey Gonzalez](http://people.eecs.berkeley.edu/~jegonzal/) on machine learning research. I am also an undergraduate researcher at UCSF Radiology, where I am advised by Professor [Jae Ho Sohn](https://radiology.ucsf.edu/people/jae-ho-sohn) in deep learning based on medical imaging research.
+I am an undergraduate researcher at Berkeley [RISE lab](https://rise.cs.berkeley.edu/), where I am advised by Professor [Joey Gonzalez](http://people.eecs.berkeley.edu/~jegonzal/) on machine learning research. I am also an undergraduate researcher at UCSF Radiology, where I am advised by Professor [Jae Ho Sohn](https://radiology.ucsf.edu/people/jae-ho-sohn) in deep learning based on medical imaging research.
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
