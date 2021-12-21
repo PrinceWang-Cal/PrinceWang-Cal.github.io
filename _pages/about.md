@@ -23,12 +23,12 @@ Hi, I’m a fourth-year Computer Science & Statistics undergraduate at the Unive
 
 ### Industry
 
-I have interned at UCSF Radiology, working on a research project for applying sequential models for CT scan processing. I have also interned at Rexel as a software engineer, developing high-frequency systems for IoT data processing. In 2020, I interned as a Machine Learning engineer at atHUM, focusing on similarity models and pipelines.
+I have interned at [UCSF Radiology](https://radiology.ucsf.edu), working on a research project for applying sequential models for CT scan processing. I have also interned at [Rexel](https://www.rexelusa.com/) as a software engineer, developing high-frequency systems for IoT data processing. In 2020, I interned as a Machine Learning engineer at [atHUM](https://athum.com/), focusing on similarity models and pipelines.
 
 ### Research
 
 My current research focus is in the field of 3D Computer Vision and Medical Imaging.
-I am an undergraduate researcher at Berkeley, where I am advised by ProfessorJoey Gonzalez on machine learning research. I am also an undergraduate researcher at UCSF Radiology, where I am advised by ProfessorJae Ho Sohn in deep learning based on medical imaging research.
+I am an undergraduate researcher at Berkeley, where I am advised by Professor [Joey Gonzalez](http://people.eecs.berkeley.edu/~jegonzal/) on machine learning research. I am also an undergraduate researcher at UCSF Radiology, where I am advised by Professor [Jae Ho Sohn](https://radiology.ucsf.edu/people/jae-ho-sohn) in deep learning based on medical imaging research.
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
